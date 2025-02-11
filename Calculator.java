@@ -34,3 +34,4 @@ public class Calculator {
         scanner.close();
     }
 }
+            case '+': result = num1 + num2; break;
